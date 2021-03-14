@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Kana Ram Yadav",
+    "occupation": "Python Full Stack Developer ",
+    "description": "Python Full Stack Developer and Data Analyst",
+    "image": "kana_ram.jpg",
+    "bio": "My name is Kana Ram Yadav, I'm a Python Full Stack Developer. Currently I am pursuing MCA from JECRC UNIVERSITY. and I am passionate about technology and want to learn & explore new technologies, I love coding,cooking and playing game.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "kanaramyadavofficial@gmail.com",
+    "phone": "+91 9983946243",
+    "address": {
+      "street": "Bhawka Parivar, Khed Milak",
+      "city": "Jaipur",
+      "state": "India",
+      "zip": "303603"
+    },
+    "website": "http://iamkanaramyadav.github.io",
+    "resumedownload": "https://drive.google.com/file/d/1uMHJ6YVNVP7Hz6d0j1jRbe19UPqyaHHf/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/iamkanaramyadav",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/iamkanaramyadav/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/iamkanaramyadav/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/iamkanaramyadav",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "JECRC University",
+        "degree": "Masters of Computer Application",
+        "graduated": "07/2019 - 06/2021",
+        "description": "Master's in Computer Science"
+      },
+      {
+        "school": "Parishkar College of Global Excellence",
+        "degree": "Bachlor of Computer Application",
+        "graduated": "07/2014 - 06/2019",
+        "description": "Graduated in Computer Science"
+      },
+      {
+        "school": "Beniwal Bal Bharti Sr. Sec. school",
+        "degree": "10+2",
+        "graduated": "07/2013 - 06/2014",
+        "description": "10+2 in Commerce"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cognisun InfoTech Pvt. Ltd.",
+        "title": "Software Developer",
+        "years": "Jan 2021",
+        "description": "Full Stack Developer at Cognisun LLC "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "80%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Python Voice Assistant",
+        "category": "Python Voice Assistant(Python)",
+        "image": "PVA.png",
+        "url": "https://github.com/iamkanaramyadav/JARVIS-AI-Personal-Assistant"
+      },
+      {
+        "title": "Amazon-Clone",
+        "category": "Amazon-Clone built with MERN (MongoDB, ReactJS, NodeJS, Firebase)",
+        "image": "Amazone_clone.jpg",
+        "url": "https://github.com/iamkanaramyadav/Amazon-Clone"
+      },
+      {
+        "title": "TextUtils-Analyzer",
+        "category": "TextUtils-Analyzer with Python",
+        "image": "Text_U.jpg",
+        "url": "https://github.com/iamkanaramyadav/TextUtils-Analyzer"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Kana Ram must be one of the good developers ",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
